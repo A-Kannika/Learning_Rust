@@ -1,0 +1,11 @@
+Primitive data types
+int, float, bool, char
+
+Integer
+- Rust has signed (+ and -) and unsigned
+- integer (only+) types of different sizes
+- i8, i16, i32, i64, i128: Signed integers
+- u8, u16, u32, u64, u128: Unsigned integers
+
+Floats [floating point types]
+- f32, f64
