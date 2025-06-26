@@ -1,0 +1,1 @@
+/Users/akannika/Documents/Rust/Learning_Rust/Chapter6_Variables_and_Mutability/target/debug/Chapter6_Variables_and_Mutability: /Users/akannika/Documents/Rust/Learning_Rust/Chapter6_Variables_and_Mutability/src/main.rs
