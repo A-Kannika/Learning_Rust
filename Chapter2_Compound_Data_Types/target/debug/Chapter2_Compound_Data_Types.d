@@ -1,0 +1,1 @@
+/Users/akannika/Documents/Rust/Learning_Rust/Chapter2_Compound_Data_Types/target/debug/Chapter2_Compound_Data_Types: /Users/akannika/Documents/Rust/Learning_Rust/Chapter2_Compound_Data_Types/src/main.rs

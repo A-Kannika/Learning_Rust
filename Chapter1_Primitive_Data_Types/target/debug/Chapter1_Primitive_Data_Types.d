@@ -1,0 +1,1 @@
+/Users/akannika/Documents/Rust/Learning_Rust/Chapter1_Primitive_Data_Types/target/debug/Chapter1_Primitive_Data_Types: /Users/akannika/Documents/Rust/Learning_Rust/Chapter1_Primitive_Data_Types/src/main.rs
