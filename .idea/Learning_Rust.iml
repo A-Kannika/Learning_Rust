@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Chapter1_Primitive_Data_Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/helloProject/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter2_Compound_Data_Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter3_Functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter4_Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter5_Borrowing_and_Reference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter6_Variables_and_Mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter7_Constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter8_Shadowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter9_Comments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter10_Controlflow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter11_Looping_Mechanism/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter1_Primitive_Data_Types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/helloProject/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter2_Compound_Data_Types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter3_Functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter4_Ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter5_Borrowing_and_Reference/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter6_Variables_and_Mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter7_Constants/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter8_Shadowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter9_Comments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter10_Controlflow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Chapter11_Looping_Mechanism/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
