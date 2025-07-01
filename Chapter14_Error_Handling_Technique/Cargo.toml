@@ -1,0 +1,6 @@
+[package]
+name = "Chapter14_Error_Handling_Technique"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
